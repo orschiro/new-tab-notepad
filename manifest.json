@@ -1,6 +1,7 @@
 {
-  "name": "New Tab Notepad",
-  "version": "0.2",
+  "name": "Zen Tab Pad",
+  "description": "New tab notes, note taking and editor with automatic saving and distraction-free",
+  "version": "1",
   "incognito": "split",
   "chrome_url_overrides": {"newtab": "start-page.html"},
   "permissions": ["storage"],

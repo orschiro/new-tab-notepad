@@ -39,7 +39,7 @@ label[for=comment] {
 
 .zen-backdrop textarea {
   height: 100%;
-  font-size: 6.375em;
+  font-size: 1.375em;
   max-width: 36em;
   padding: 1em;
   background-color: white;
@@ -58,5 +58,3 @@ label[for=comment] {
   bottom: 0;
   background-color: white;
 }
-
-
