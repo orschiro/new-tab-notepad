@@ -10,7 +10,7 @@
 
 ### Installation
 
-Install the extension directly from Chrome Webstore.
+Install the extension directly from [Chrome Webstore](https://chrome.google.com/webstore/detail/zen-tab-pad/hgojnajokjdjlmfdonnnkgomloikhpnc).
 
 ### Credits
 
