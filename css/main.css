@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#text {
+  outline: none;
+  min-height: 15em;
+  width: 80em;
+}
