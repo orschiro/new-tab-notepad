@@ -6,13 +6,13 @@
    "chrome_url_overrides": {
       "newtab": "index.html"
    },
-   "description": "Take temporary notes on the new tab page and limit yourself to 100 characters.",
+   "description": "Take temporary notes on the new tab page.",
    "icons": {
       "128": "img/icon/icon128.png",
       "48": "img/icon/icon48.png",
       "16": "img/icon/icon16.png"
    },
-   "manifest_version": 2,
+   "manifest_version": 3,
    "name": "New Tab (Zen) Notepad",
    "permissions": [ "storage" ],
    "short_name": "Zenpad",
