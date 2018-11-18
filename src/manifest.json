@@ -17,5 +17,5 @@
    "permissions": [ "storage" ],
    "short_name": "Zenpad",
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "3"
+   "version": "4"
 }
